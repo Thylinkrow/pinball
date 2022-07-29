@@ -1,0 +1,9 @@
+/home/student/pinball_ws/install/_setup_util.py
+/home/student/pinball_ws/install/env.sh
+/home/student/pinball_ws/install/setup.bash
+/home/student/pinball_ws/install/local_setup.bash
+/home/student/pinball_ws/install/setup.sh
+/home/student/pinball_ws/install/local_setup.sh
+/home/student/pinball_ws/install/setup.zsh
+/home/student/pinball_ws/install/local_setup.zsh
+/home/student/pinball_ws/install/.rosinstall
